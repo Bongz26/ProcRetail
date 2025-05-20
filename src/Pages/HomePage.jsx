@@ -13,7 +13,7 @@ function HomePage() {
     {
       url: 'images/slide44.jpg',
       title: 'Professional Auto Painting Testing GitCommits',
-      description: 'Transform your vehicle with our expert paint services'
+      description: 'Transform your vehicle with our expert paint services Testing Git'
     },
     {
       url: '/images/slide3.jpg',
