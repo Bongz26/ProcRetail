@@ -11,9 +11,9 @@ import './HomePage.css';
 function HomePage() {
   const sliderImages = [
     {
-      url: '/images/slide44.jpg',
+      url: 'images/slide44.jpg',
       title: 'Professional Auto Painting',
-      description: 'Transform your vehicle with our expert paint services'
+      description: 'Transform your vehicle with our expert paint services Checking the Path'
     },
     {
       url: '/images/slide3.jpg',
