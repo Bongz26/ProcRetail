@@ -12,8 +12,8 @@ function HomePage() {
   const sliderImages = [
     {
       url: 'images/slide44.jpg',
-      title: 'Professional Auto Painting Testing GitCommits',
-      description: 'Transform your vehicle with our expert paint services Testing Git'
+      title: 'Professional Auto Painting',
+      description: 'Transform your vehicle with our expert paint services Checking the Path'
     },
     {
       url: '/images/slide3.jpg',
