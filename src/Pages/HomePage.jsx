@@ -11,7 +11,8 @@ import './HomePage.css';
 function HomePage() {
   const sliderImages = [
     {
-      url: '/ProcRetail/images/slide44.jpg',
+      
+       url: `${import.meta.env.BASE_URL}images/slide44.jpg`,
       title: 'Professional Auto Painting Testing GitCommits',
       description: 'Transform your vehicle with our expert paint services Testing Git'
     },
