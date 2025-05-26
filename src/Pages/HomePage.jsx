@@ -11,17 +11,17 @@ import './HomePage.css';
 function HomePage() {
   const sliderImages = [
     {
-      url: '/images/slide44.jpg',
+      url: '/ProcushRetail/images/slide44.jpg',
       title: 'Professional Auto Painting Testing GitCommits',
       description: 'Transform your vehicle with our expert paint services Testing Git'
     },
     {
-      url: '/images/slide3.jpg',
+      url: '/ProcushRetail/images/slide3.jpg',
       title: 'Quality Workmanship',
       description: 'Premium finishes that protect and beautify your vehicle'
     },
     {
-      url: '/images/p1.jpg',
+      url: '/ProcushRetail/images/p1.jpg',
       title: 'Custom Color Solutions',
       description: 'Choose from a wide range of colors and finishes'
     }
