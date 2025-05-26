@@ -17,12 +17,12 @@ function HomePage() {
       description: 'Transform your vehicle with our expert paint services Testing Git'
     },
     {
-      url: '/ProcRetail/images/slide3.jpg',
+      url: `${import.meta.env.BASE_URL}images/slide3.jpg`,
       title: 'Quality Workmanship',
       description: 'Premium finishes that protect and beautify your vehicle'
     },
     {
-      url: '/ProcRetail/images/p1.jpg',
+      url: `${import.meta.env.BASE_URL}images/p1.jpg`,
       title: 'Custom Color Solutions',
       description: 'Choose from a wide range of colors and finishes'
     }
